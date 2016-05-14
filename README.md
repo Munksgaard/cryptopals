@@ -11,6 +11,7 @@ crypto and utility libraries:
 
  - [hexstr](https://github.com/Munksgaard/hexstr)
  - [base64](https://github.com/Munksgaard/base64)
+ - [freqalyze](https://github.com/Munksgaard/freqalyze)
  - [hamming](https://github.com/Munksgaard/hamming)
  - [pkcs7pad](https://github.com/Munksgaard/pkcs7pad)
  - [raes](https://github.com/Munksgaard/raes)

@@ -1,0 +1,12 @@
+[root]
+name = "chal5"
+version = "0.1.0"
+dependencies = [
+ "hexstr 0.1.0 (git+https://github.com/Munksgaard/hexstr)",
+]
+
+[[package]]
+name = "hexstr"
+version = "0.1.0"
+source = "git+https://github.com/Munksgaard/hexstr#a3d7b052d3add635908cbf9b47a79725812b9910"
+

@@ -1,0 +1,18 @@
+[root]
+name = "chal3"
+version = "0.1.0"
+dependencies = [
+ "freqalyze 0.1.0 (git+https://github.com/Munksgaard/freqalyze)",
+ "hexstr 0.1.0 (git+https://github.com/Munksgaard/hexstr)",
+]
+
+[[package]]
+name = "freqalyze"
+version = "0.1.0"
+source = "git+https://github.com/Munksgaard/freqalyze#b8116668c7c1f890470ff9ae9fb3b626c648cd82"
+
+[[package]]
+name = "hexstr"
+version = "0.1.0"
+source = "git+https://github.com/Munksgaard/hexstr#a3d7b052d3add635908cbf9b47a79725812b9910"
+
