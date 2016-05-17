@@ -9,7 +9,7 @@ dependencies = [
 [[package]]
 name = "freqalyze"
 version = "0.1.0"
-source = "git+https://github.com/Munksgaard/freqalyze#b8116668c7c1f890470ff9ae9fb3b626c648cd82"
+source = "git+https://github.com/Munksgaard/freqalyze#7e6171e97a9ae170130f27c3f0d2a4160e0eb4b7"
 
 [[package]]
 name = "hexstr"
