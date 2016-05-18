@@ -1,0 +1,8 @@
+[package]
+name = "chal9"
+version = "0.1.0"
+authors = ["Philip Munksgaard <pmunksgaard@gmail.com>"]
+
+[dependencies]
+pkcs7pad = { git = "https://github.com/Munksgaard/pkcs7pad" }
+hexstr = { git = "https://github.com/Munksgaard/hexstr" }

@@ -1,0 +1,26 @@
+[root]
+name = "chal9"
+version = "0.1.0"
+dependencies = [
+ "hexstr 0.1.0 (git+https://github.com/Munksgaard/hexstr)",
+ "pkcs7pad 0.0.1 (git+https://github.com/Munksgaard/pkcs7pad)",
+]
+
+[[package]]
+name = "getopts"
+version = "0.2.14"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[[package]]
+name = "hexstr"
+version = "0.1.0"
+source = "git+https://github.com/Munksgaard/hexstr#a3d7b052d3add635908cbf9b47a79725812b9910"
+
+[[package]]
+name = "pkcs7pad"
+version = "0.0.1"
+source = "git+https://github.com/Munksgaard/pkcs7pad#8b79b14c9537f51527162b7f2b8f3beb591d7bf2"
+dependencies = [
+ "getopts 0.2.14 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
