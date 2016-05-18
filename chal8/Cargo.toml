@@ -1,0 +1,7 @@
+[package]
+name = "chal8"
+version = "0.1.0"
+authors = ["Philip Munksgaard <pmunksgaard@gmail.com>"]
+
+[dependencies]
+hexstr = { git = "https://github.com/Munksgaard/hexstr" }
