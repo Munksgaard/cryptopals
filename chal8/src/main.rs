@@ -1,5 +1,3 @@
-#![feature(inclusive_range_syntax)]
-
 extern crate hexstr;
 
 use std::io::{stdin, Read};

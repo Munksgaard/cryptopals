@@ -1,5 +1,3 @@
-#![feature(inclusive_range_syntax)]
-
 extern crate hexstr;
 extern crate base64;
 extern crate hamming;

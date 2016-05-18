@@ -1,5 +1,3 @@
-#![feature(inclusive_range_syntax)]
-
 extern crate raes;
 extern crate base64;
 
