@@ -1,0 +1,10 @@
+[package]
+name = "chal6"
+version = "0.1.0"
+authors = ["Philip Munksgaard <pmunksgaard@gmail.com>"]
+
+[dependencies]
+hexstr = { git = "https://github.com/Munksgaard/hexstr" }
+base64 = { git = "https://github.com/Munksgaard/base64" }
+hamming = { git = "https://github.com/Munksgaard/hamming" }
+freqalyze = { git = "https://github.com/Munksgaard/freqalyze" }
