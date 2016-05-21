@@ -1,0 +1,7 @@
+[package]
+name = "chal15"
+version = "0.1.0"
+authors = ["Philip Munksgaard <pmunksgaard@gmail.com>"]
+
+[dependencies]
+pkcs7pad = { git = "https://github.com/Munksgaard/pkcs7pad" }

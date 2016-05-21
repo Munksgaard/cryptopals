@@ -1,0 +1,20 @@
+[root]
+name = "chal15"
+version = "0.1.0"
+dependencies = [
+ "pkcs7pad 0.0.1 (git+https://github.com/Munksgaard/pkcs7pad)",
+]
+
+[[package]]
+name = "getopts"
+version = "0.2.14"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[[package]]
+name = "pkcs7pad"
+version = "0.0.1"
+source = "git+https://github.com/Munksgaard/pkcs7pad#6125d405c05e93f7b2c69f9b4943d3bb27524d58"
+dependencies = [
+ "getopts 0.2.14 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
