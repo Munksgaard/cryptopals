@@ -1,0 +1,9 @@
+[package]
+name = "chal22"
+version = "0.1.0"
+authors = ["Philip Munksgaard <pmunksgaard@gmail.com>"]
+
+[dependencies]
+mersenne = { git = "https://github.com/Munksgaard/mersenne" }
+rand = "0.3.14"
+time = "0.1.35"
