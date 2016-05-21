@@ -1,0 +1,10 @@
+[package]
+name = "chal17"
+version = "0.1.0"
+authors = ["Philip Munksgaard <pmunksgaard@gmail.com>"]
+
+[dependencies]
+pkcs7pad = { git = "https://github.com/Munksgaard/pkcs7pad" }
+base64 = { git = "https://github.com/Munksgaard/base64" }
+raes = { git = "https://github.com/Munksgaard/raes" }
+rand = "0.3.14"
