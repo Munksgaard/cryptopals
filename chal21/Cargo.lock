@@ -1,0 +1,12 @@
+[root]
+name = "chal21"
+version = "0.1.0"
+dependencies = [
+ "mersenne 0.1.0 (git+https://github.com/Munksgaard/mersenne)",
+]
+
+[[package]]
+name = "mersenne"
+version = "0.1.0"
+source = "git+https://github.com/Munksgaard/mersenne#432f95807e701989604d2e3fcbbdf5577ab6201a"
+
