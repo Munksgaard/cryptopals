@@ -1,0 +1,9 @@
+[package]
+name = "chal20"
+version = "0.1.0"
+authors = ["Philip Munksgaard <pmunksgaard@gmail.com>"]
+
+[dependencies]
+base64 = { git = "https://github.com/Munksgaard/base64" }
+freqalyze = { git = "https://github.com/Munksgaard/freqalyze" }
+raes = { git = "https://github.com/Munksgaard/raes" }
