@@ -1,0 +1,8 @@
+[package]
+name = "chal23"
+version = "0.1.0"
+authors = ["Philip Munksgaard <pmunksgaard@gmail.com>"]
+
+[dependencies]
+mersenne = { git = "https://github.com/Munksgaard/mersenne" }
+time = "0.1.35"
