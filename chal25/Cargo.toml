@@ -1,0 +1,9 @@
+[package]
+name = "chal25"
+version = "0.1.0"
+authors = ["Philip Munksgaard <pmunksgaard@gmail.com>"]
+
+[dependencies]
+base64 = { git = "https://github.com/Munksgaard/base64" }
+raes = { git = "https://github.com/Munksgaard/raes" }
+pkcs7pad = { git = "https://github.com/Munksgaard/pkcs7pad" }
