@@ -1,0 +1,7 @@
+[package]
+name = "chal27"
+version = "0.1.0"
+authors = ["Philip Munksgaard <pmunksgaard@gmail.com>"]
+
+[dependencies]
+raes = { git = "https://github.com/Munksgaard/raes" }
